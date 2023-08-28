@@ -27,7 +27,7 @@
 </div>
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=iOS&logoColor=white">
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Kotlin&logoColor=white">
